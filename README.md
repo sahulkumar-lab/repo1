@@ -11,6 +11,7 @@ I am an IT professional from Hardoi, Uttar Pradesh, India, with hands-on experie
 I enjoy solving technical problems, managing IT infrastructure, and continuously learning new technologies.
 
 🛠️ Technical Skills
+
 Hardware Support: Desktop PCs, Laptops, Printers, Scanners, Hardware Assembly.
 Operating Systems: Windows Installation, Deployment, Troubleshooting.
 Networking: DHCP, DNS, APIPA, DORA, Subnetting, Networking Protocols.
@@ -19,7 +20,9 @@ Windows Server: Windows Server 2019 & 2022, Active Directory, DNS, DHCP, Group P
 Microsoft 365: Outlook, Microsoft Teams, Office 365 Administration.
 CCNA: Router and Switch Configuration, Basic Network Security.
 Web Development: HTML, CSS, Responsive Web Design.
+
 💼 Professional Experience
+
 Encardio Rite Electronics Pvt. Ltd.
 
 Desktop Support Engineer
@@ -40,25 +43,42 @@ Printer and peripheral maintenance.
 End-user technical support.
 🎓 Education
 B.Sc. (Bachelor of Science) – Kanpur University (2023)
+
 Intermediate (12th) – UP Board (2019)
+
 📜 Certifications
+
 Diploma in Cloud Computing (DCC)
 Diploma in Financial Accounts (DFA)
 Course on Computer Concepts (CCC)
 Web Design & Development
+
 🎯 Career Interests
+
 IT Support and Desktop Support
+
 System Administration
+
 AWS Cloud Computing
+
 Network Administration
+
 Windows Server Administration
+
 IT Infrastructure Management
+
 📫 Connect With Me
+
 Email: sahulkumar284@gmail.com
+
 LinkedIn: https://www.linkedin.com/
+
 GitHub: https://github.com/sahulkumar-lab
+
 Portfolio: https://k2kumar-it.new.tg/
+
 Location: Sandila, Hardoi, Uttar Pradesh, India
+
 ⭐ Thank You for Visiting!
 
 Thank you for checking out my portfolio and GitHub profile.
