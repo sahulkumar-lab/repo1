@@ -26,22 +26,23 @@ Web Development: HTML, CSS, Responsive Web Design.
 Encardio Rite Electronics Pvt. Ltd.
 
 Desktop Support Engineer
-
 Provided hardware and software troubleshooting.
 Managed Windows OS installation and deployment.
 Configured network settings and peripherals.
 Worked with Active Directory, DNS, DHCP, and Microsoft 365.
 Supported daily IT operations.
-Aditya Infotech
+
+Aditya Infotech Pvt. Ltd.
 
 Desktop Support Engineer July 2023 – July 2024
-
 Hardware assembly and disassembly.
 Windows installation and configuration.
 Network troubleshooting.
 Printer and peripheral maintenance.
 End-user technical support.
+
 🎓 Education
+
 B.Sc. (Bachelor of Science) – Kanpur University (2023)
 
 Intermediate (12th) – UP Board (2019)
@@ -56,28 +57,19 @@ Web Design & Development
 🎯 Career Interests
 
 IT Support and Desktop Support
-
 System Administration
-
 AWS Cloud Computing
-
 Network Administration
-
 Windows Server Administration
-
 IT Infrastructure Management
 
 📫 Connect With Me
 
-Email: sahulkumar284@gmail.com
+Email: sahulkumar363@gmail.com
 
-LinkedIn: https://www.linkedin.com/
+LinkedIn: https://www.linkedin.com/in/sahulkumarit
 
 GitHub: https://github.com/sahulkumar-lab
-
-Portfolio: https://k2kumar-it.new.tg/
-
-Location: Sandila, Hardoi, Uttar Pradesh, India
 
 ⭐ Thank You for Visiting!
 
